@@ -47,7 +47,7 @@ cd dashtoon-ankush
 
 ## Results
 
-You can see the generated images in te python notebook.
+You can see the generated images in the python notebook.
 Submission by: Ankush Agarwal
 Email: ankush.251218.agarwal@gmail.com
 Roll no: 20CE10013
