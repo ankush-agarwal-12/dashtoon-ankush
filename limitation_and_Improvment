@@ -1,0 +1,14 @@
+Limitations and Potential Improvements
+
+ Limitations:
+
+1. The model may struggle with certain art styles or complex compositions.
+2. Content images are resized to 224x224, potentially losing some details.
+3. The model heavily relies on the pre-trained VGG19 model, limiting the diversity of artistic styles captured.
+
+Potential Improvements:
+
+1. Experiment with more advanced neural network architectures for style transfer.
+2. Fine-tune hyperparameters for better results across various styles and content images.
+3. Train the model on a more diverse dataset of artistic styles to improve generalization.
+4. Develop a user-friendly interface for easy input and visualization.
